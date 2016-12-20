@@ -1,0 +1,12 @@
+LinkedList
+==============
+Attributes:
+    head: node reference
+    listLength: integer
+==============
+Behaviors:
+    Linkedlist(): constructor
+    insertNode(): boolean
+    removeNode(): boolean
+    printList(): void
+    ~LinkedList(): destructor
