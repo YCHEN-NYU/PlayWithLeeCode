@@ -34,19 +34,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/easonphys/Downloads/clion-2016.3.1/bin/cmake/bin/cmake
+CMAKE_COMMAND = /Applications/CLion.app/Contents/bin/cmake/bin/cmake
 
 # The command to remove a file.
-RM = /home/easonphys/Downloads/clion-2016.3.1/bin/cmake/bin/cmake -E remove -f
+RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/easonphys/Dropbox/leetcode
+CMAKE_SOURCE_DIR = /Users/yiyi/Dropbox/leetcode
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/easonphys/Dropbox/leetcode/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/yiyi/Dropbox/leetcode/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/leetcode.dir/depend.make
@@ -66,6 +66,6 @@ CMakeFiles/leetcode.dir/clean:
 .PHONY : CMakeFiles/leetcode.dir/clean
 
 CMakeFiles/leetcode.dir/depend:
-	cd /home/easonphys/Dropbox/leetcode/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/easonphys/Dropbox/leetcode /home/easonphys/Dropbox/leetcode /home/easonphys/Dropbox/leetcode/cmake-build-debug /home/easonphys/Dropbox/leetcode/cmake-build-debug /home/easonphys/Dropbox/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/yiyi/Dropbox/leetcode/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/yiyi/Dropbox/leetcode /Users/yiyi/Dropbox/leetcode /Users/yiyi/Dropbox/leetcode/cmake-build-debug /Users/yiyi/Dropbox/leetcode/cmake-build-debug /Users/yiyi/Dropbox/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/leetcode.dir/depend
 

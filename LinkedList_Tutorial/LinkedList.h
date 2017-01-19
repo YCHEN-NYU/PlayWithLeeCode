@@ -14,9 +14,9 @@ using namespace std;
 // In this project, it will represent a song/artist combination
 
 struct node{
-    string song;
-    string artist;
-    node *next;
+    string song;//member song 
+    string artist;//member artist name 
+    node *next;//pointer to the next node
 };
 
 // LinkedList is a list of singly-linked nodes.

@@ -2,5 +2,15 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/C100" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/C100/Complex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LinkedList_Tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PlayWithLeeCode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bankSystem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gitignore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ipython" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/simbody" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ticgit" vcs="Git" />
   </component>
 </project>

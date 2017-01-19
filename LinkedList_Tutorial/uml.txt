@@ -1,4 +1,6 @@
 LinkedList
+
+.h file
 ==============
 Attributes:
     head: node reference
@@ -10,3 +12,9 @@ Behaviors:
     removeNode(): boolean
     printList(): void
     ~LinkedList(): destructor
+==============
+
+.cpp file
+Implementation:
+    LinkedList::Linkedlist()
+    Linked::insertNode(node *newNode, int position)

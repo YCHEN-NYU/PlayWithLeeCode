@@ -12,8 +12,7 @@ LinkedList::LinkedList()
     listLength = 0;
 }
 
-// Setter adds a node to the list at a given position
-
+// Insert a new node at a given position
 bool LinkedList::insertNode(node *newNode, int position)
 {
     if((position <= 0) || (position > listLength + 1))
@@ -21,12 +20,15 @@ bool LinkedList::insertNode(node *newNode, int position)
         cout << "\nError: the given position is out of range.\n";
         return false;
     }
+
+    // add the new node to the end if head.next points to NULL
     if(head -> next = NULL)
     {
         head -> next = newNode;
         listLength++;
         return true;
     }
+
     int count = 0;
     node *p = head;
     node *q = head;
