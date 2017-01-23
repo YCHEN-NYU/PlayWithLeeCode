@@ -1,0 +1,30 @@
+#include <iostream>
+using namespace std;
+
+template <typename T>
+long find_target(T array[], T target, long index_left, long index_right){
+  long index_mid =  (index_left + index_right)/2;
+  if(index_left > index_right) return NULL;
+  else
+  {
+    if(target == array[index_mid]) return index_mid;
+    else{
+      if(target < array[(index_mid])	find_target(array, target, 0, (index_mid-1);
+      else	find_target(array, target, index_mid+1, index_right);
+     }
+  }
+}
+
+int main() {
+  int vec[] ={1, 4, 8, 10, 12, 20, 32};
+  long size_vec = sizeof(vec)/sizeof(*vec);
+  print_vec(vec, size_vec );
+
+  cout << "target = ";
+  int target;
+  cin >> target;
+
+  auto result = find_target(vec, target, 0, size_vec - 1);
+  if(result == NULL)	cout << "no  target found!" << endl;
+  else	cout << result << endl;
+}
