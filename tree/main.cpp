@@ -1,9 +1,10 @@
 #include <iostream>
+#include <cstdlib>
+#include "BST.h"
+
 using namespace std;
 
 int main () {
-  BTree Car_Flow = BTree();
-  Car_Flow.print_tree();
-
-  return 0;
+	cout << "Hello Sublime editor!" << endl;
+  	return 0;
 }
