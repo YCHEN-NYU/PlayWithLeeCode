@@ -25,12 +25,10 @@ void BST::add_leaf_private(int key, node * ptr){
 		if(key < ptr->key)
 		{
 			if(ptr->left != NULL)
-			{
-				add_leaf_private(key, ptr->left);
+			{add_leaf_private(key, ptr->left);
 			}
 			else 
-			{
-				ptr->left = create_leaf(key);
+			{ptr->left = create_leaf(key);
 			}
 		}
 		else 
