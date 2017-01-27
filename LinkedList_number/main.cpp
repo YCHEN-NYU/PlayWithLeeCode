@@ -1,25 +1,27 @@
 #include <iostream>
-#include <vector>
 #include <cmath>
+#include "llist.h"
 using namespace std;
 
-void decompose(int number) {
-  vector<int> digits;
-  while(number != number%10) {
-    digits.push_back(number - floor(number/10)*10);
-    number /= 10;
-  }
-
-  digits.push_back(number);
-
-  for(auto it = digits.end()-1; it != digits.begin()-1; --it) {
-    cout << *it << endl;
-  } 
-}
-
 int main () {
-  int number = 12345;
-  decompose(number);
+  llong number1 = 1234523974678910, number2 = 8231234237423464;
+  number_list l1(number1), l2(number2);
+
+  cout << "number1 = " << number1 << endl;
+
+  cout << "tail to head: ";
+  l1.print_tail2head();
+  cout << "head to tail: ";
+  l1.print_head2tail();
+
+  cout << "number2 = " << number2 << endl;
+  cout << "tail to head: ";
+  l2.print_tail2head();
+  cout << "head to tail: ";
+  l2.print_head2tail();
+
+
+  
 
   return 0;
 }
