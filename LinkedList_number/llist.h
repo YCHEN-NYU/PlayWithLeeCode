@@ -3,15 +3,20 @@
 
 class number_list {
 private:
-	int digit;
-	node * next;
-  node * prev;
-	node * head;
-  node * tail;
+	struct node {
+    int digit;
+    node * next;
+    node * prev;
+    node * head;
+    node * tail;
+  };
 public:
-	number_list(int number);
-  int add(number_list *l1, number_list *l2);
-  int sub(number_list *l1, number_list *l2);
-	void print();
+  node * create_node(int const digit);
+	number_list(int const number);
+  number_list add(number_list *l1, number_list *l2);
+  number_list sub(number_list *l1, number_list *l2);
+	void print_head2tail() const;
+	void print_tail2head() const;
+
 }
 #endif
