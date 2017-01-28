@@ -21,7 +21,7 @@ int main () {
   l2.print_head2tail();
 
 
-  
+
 
   return 0;
 }

@@ -32,7 +32,7 @@ number_list::number_list(llong number) {
     current_node = temp_node;
 }
 
-void number_list::print_head2tail() {
+void number_list::print_head2tail() const{
   node * temp_node = head->next;
   cout << "head[ ";
   while(temp_node->next != nullptr) {
@@ -42,7 +42,7 @@ void number_list::print_head2tail() {
   cout << " ]tail" << endl;
 }
 
-void number_list::print_tail2head() {
+void number_list::print_tail2head() const{
   node * temp_node = tail->prev;
   cout << "tail[ ";
   while(temp_node->prev != nullptr) {
@@ -51,5 +51,10 @@ void number_list::print_tail2head() {
   }
   cout << " ]head" << endl;
 }
+
+
+  void number_list::add(number_list *l1, number_list *l2){
+    
+  } // TODO
 
 
