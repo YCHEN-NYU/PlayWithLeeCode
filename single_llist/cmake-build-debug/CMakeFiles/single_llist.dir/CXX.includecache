@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/easonphys/Dropbox/leetcode/single_llist/List.cpp
+List.h
+/home/easonphys/Dropbox/leetcode/single_llist/List.h
+iostream
+-
+
+/home/easonphys/Dropbox/leetcode/single_llist/List.h
+Node.h
+/home/easonphys/Dropbox/leetcode/single_llist/Node.h
+
+/home/easonphys/Dropbox/leetcode/single_llist/Node.h
+
+/home/easonphys/Dropbox/leetcode/single_llist/main.cpp
+iostream
+-
+List.h
+/home/easonphys/Dropbox/leetcode/single_llist/List.h
+

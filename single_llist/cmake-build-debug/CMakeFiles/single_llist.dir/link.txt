@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/single_llist.dir/main.cpp.o CMakeFiles/single_llist.dir/List.cpp.o  -o single_llist 

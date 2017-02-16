@@ -20,6 +20,8 @@ int main () {
   cout << "head to tail: ";
   l2.print_head2tail();
 
+  // add sum = number1 + number2
+
 
 
 

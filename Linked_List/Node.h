@@ -13,7 +13,7 @@ private:
     T data;
     Node *next_ptr;
 public:
-    Node(T d): data(d), next_ptr() {};
+    Node(T d): data(d), next_ptr(nullptr) {};
     T get_data() const { return data;}
     Node *get_next_ptr() const { return next_ptr;}
 

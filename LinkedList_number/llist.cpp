@@ -7,6 +7,7 @@ number_list::number_list(llong number) {
   head = new node;
   head->digit = -1;
   head->prev = nullptr;
+  
   tail = new node;
   tail->digit = -1;
   tail->next = nullptr;
@@ -53,8 +54,10 @@ void number_list::print_tail2head() const{
 }
 
 
-  void number_list::add(number_list *l1, number_list *l2){
+  number_list * number_list::add(number_list *l1, number_list *l2){
+    number_list * sum_ptr; // sum pointer to be returned
+
     
-  } // TODO
+  }
 
 
