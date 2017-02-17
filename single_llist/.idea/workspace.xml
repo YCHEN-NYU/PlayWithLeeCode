@@ -41,45 +41,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7f8c927-4ccc-4aed-8319-ff55e04d5927" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/List.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/List.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Node.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main.cpp" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/single_linked_list.dir/CXX.includecache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/single_linked_list.dir/depend.internal" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/single_linked_list.dir/main.cpp.o" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_C.bin" afterPath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_C.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_CXX.bin" afterPath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_CXX.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdC/a.out" afterPath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdC/a.out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdCXX/a.out" afterPath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdCXX/a.out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/feature_tests.bin" afterPath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/feature_tests.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LinkedList_number/llist.cpp" afterPath="$PROJECT_DIR$/../LinkedList_number/llist.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LinkedList_number/llist.h" afterPath="$PROJECT_DIR$/../LinkedList_number/llist.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LinkedList_number/main.cpp" afterPath="$PROJECT_DIR$/../LinkedList_number/main.cpp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Linked_List/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/Node.h" afterPath="$PROJECT_DIR$/../Linked_List/Node.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeCache.txt" afterPath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeCache.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/3.6.3/CMakeCCompiler.cmake" afterPath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/3.6.3/CMakeCCompiler.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/3.6.3/CMakeCXXCompiler.cmake" afterPath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/3.6.3/CMakeCXXCompiler.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/3.6.3/CMakeSystem.cmake" afterPath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/3.6.3/CMakeSystem.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterPath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/Makefile.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/Makefile2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterPath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/clion-environment.txt" afterPath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/clion-environment.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/clion-log.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/feature_tests.c" afterPath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/feature_tests.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterPath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/feature_tests.cxx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/single_linked_list.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/single_linked_list.dir/DependInfo.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/single_linked_list.dir/build.make" afterPath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/single_linked_list.dir/build.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/single_linked_list.dir/depend.make" afterPath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/single_linked_list.dir/depend.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/single_linked_list.dir/flags.make" afterPath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/single_linked_list.dir/flags.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/single_linked_list.dir/link.txt" afterPath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/CMakeFiles/single_linked_list.dir/link.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/cmake_install.cmake" afterPath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/cmake_install.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/single_linked_list.cbp" afterPath="$PROJECT_DIR$/../Linked_List/cmake-build-debug/single_linked_list.cbp" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -452,12 +414,12 @@
       <option name="presentableId" value="Default" />
       <updated>1487201614138</updated>
       <workItem from="1487201615819" duration="2474000" />
-      <workItem from="1487204107997" duration="2414000" />
+      <workItem from="1487204107997" duration="3006000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4888000" />
+    <option name="totallyTimeSpent" value="5480000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">

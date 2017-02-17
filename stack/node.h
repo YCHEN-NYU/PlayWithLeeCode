@@ -12,7 +12,7 @@ private:
     node * next_ptr;
 public:
     node(T d): value(d), next_ptr(nullptr) {};
-    
+
 
 
 };
