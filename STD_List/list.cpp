@@ -44,6 +44,7 @@ int main () {
 
   cout << "List is empty? " << boolalpha << !NumberList.empty() << endl;
   
+  // get the value from the front and back of the list<T>
   cout << "NumberList.front() = " << NumberList.front() << endl; 
   cout << "NumberList.back() = " << NumberList.back() << endl; 
 
